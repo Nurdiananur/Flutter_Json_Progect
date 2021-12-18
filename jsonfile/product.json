@@ -1,0 +1,93 @@
+[
+  {
+    "id": 36,
+    "name": "Наушники и bluetooth гарнитуры",
+    "slug": "Naushniki-i-bluetooth-garnitury",
+    "eeCatId": 27,
+    "imageUrl": null
+  },
+  {
+    "id": 37,
+    "name": "Портативная акустика",
+    "slug": "Portativnaya-akustika",
+    "eeCatId": 192,
+    "imageUrl": null
+  },
+  {
+    "id": 38,
+    "name": "Очки виртуальной реальности",
+    "slug": "Ochki-virtual-noi-real-nosti",
+    "eeCatId": 193,
+    "imageUrl": null
+  },
+  {
+    "id": 39,
+    "name": "Планшеты",
+    "slug": "Planshety",
+    "eeCatId": 194,
+    "imageUrl": null
+  },
+  {
+    "id": 40,
+    "name": "Умные колонки",
+    "slug": "Umnyye-kolonki",
+    "eeCatId": 195,
+    "imageUrl": null
+  },
+  {
+    "id": 41,
+    "name": "Смарт часы и аксессуары",
+    "slug": "Smart-chasy-i-aksessuary",
+    "eeCatId": 254,
+    "imageUrl": null
+  },
+  {
+    "id": 42,
+    "name": "Другие",
+    "slug": "Drugiye",
+    "eeCatId": 349,
+    "imageUrl": null
+  },
+  {
+    "id": 43,
+    "name": "Зарядки",
+    "slug": "Zaryadki",
+    "eeCatId": 428,
+    "imageUrl": null
+  },
+  {
+    "id": 44,
+    "name": "Чехлы",
+    "slug": "Chekhly",
+    "eeCatId": 429,
+    "imageUrl": null
+  },
+  {
+    "id": 45,
+    "name": "Наушники",
+    "slug": "Naushniki",
+    "eeCatId": 430,
+    "imageUrl": null
+  },
+  {
+    "id": 46,
+    "name": "Защита экрана",
+    "slug": "Zashchita-ekrana",
+    "eeCatId": 431,
+    "imageUrl": null
+  },
+  {
+    "id": 47,
+    "name": "Держатели",
+    "slug": "Derzhateli",
+    "eeCatId": 432,
+    "imageUrl": null
+  },
+  {
+    "id": 48,
+    "name": "Карты памяти",
+    "slug": "Karty-pamyati",
+    "eeCatId": 433,
+    "imageUrl": null
+  }
+]
